@@ -1,0 +1,7 @@
+node
+python3
+pip3
+
+npm i
+pip3 install opencv-python
+pip3 install numpy
