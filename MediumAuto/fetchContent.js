@@ -8,7 +8,7 @@ var blogs = [];
 var titles = require('./inputs/titles.json');
 
 var config = new Configuration({
-  apiKey: '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'
+  apiKey: ''
 });
 
 var openai = new OpenAIApi(config);
